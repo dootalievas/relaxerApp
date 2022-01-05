@@ -81,7 +81,7 @@ body {
   animation: grow 3s linear forwards;
 }
 @keyframes grow {
-  form {
+  from {
     transform: scale(1);
   }
   to {
@@ -93,7 +93,7 @@ body {
   animation: shrink 3s linear forwards;
 }
 @keyframes shrink {
-  form {
+  from {
     transform: scale(1.2);
   }
   to {
